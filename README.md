@@ -108,7 +108,7 @@ The analysis included:
 
 See the complete SQL queries in:
 
-`sql/ecommerce_analysis.sql`
+![SQL Analysis](sql/ecommerce_analysis.sql)
 
 ---
 
@@ -273,4 +273,3 @@ The dashboard provides an interactive way for business stakeholders to explore s
 - Business insights
 - Data-driven recommendations
 
-  
