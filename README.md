@@ -108,7 +108,7 @@ The analysis included:
 
 See the complete SQL queries in:
 
-![SQL Analysis](sql/ecommerce_analysis.sql)
+**[SQL Analysis](sql/ecommerce_analysis.sql)** — 45 SQL queries covering business metrics, product and customer analysis, profitability, discounts, rankings, and monthly trends.
 
 ---
 
@@ -167,7 +167,7 @@ It includes:
 - Sales by Segment
 - Interactive filters for Year, Region, Category, and Segment
 
-**[Executive Overview](dashboard/executive_overview.png)**
+**[Executive Overview](dashboard/executive_overview.png)** — High-level sales and profitability performance.
 
 ---
 
@@ -185,7 +185,7 @@ It includes:
 - Profit Margin by Category
 - Interactive filters for Year, Region, Category, and Segment
 
-![Profitability & Operations](dashboard/profitability_operations.png)
+**[Profitability & Operations](dashboard/profitability_operations.png)**  — Detailed profitability and operational analysis.
 
 ---
 
