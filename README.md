@@ -167,7 +167,7 @@ It includes:
 - Sales by Segment
 - Interactive filters for Year, Region, Category, and Segment
 
-![Executive Overview](dashboard/executive_overview.png)
+**[Executive Overview](dashboard/executive_overview.png)**
 
 ---
 
