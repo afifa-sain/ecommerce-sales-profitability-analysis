@@ -149,6 +149,7 @@ Some of the main measures created include:
 ## Power BI Dashboard
 
 The dashboard contains two pages.
+
 **[Download the Power BI Report (.pbix)](powerbi/ecommerce_sales_profitability.pbix)** — Download the interactive report and explore the dashboard.
 
 ### 1. Executive Overview
