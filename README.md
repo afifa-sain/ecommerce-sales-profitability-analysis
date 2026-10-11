@@ -38,27 +38,13 @@ The analysis aims to answer questions such as:
 
 ## Dataset
 
-The cleaned dataset contains:
+The cleaned dataset contains **10,194 rows and 24 columns** covering e-commerce orders, customers, products, sales, discounts, profits, and shipping information.
 
-- 10,194 rows
-- 24 columns
+Key fields include Order Date, Ship Date, Ship Mode, Segment, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit, and Shipping Days.
 
-Key fields include:
+**Dataset file:** [Download the cleaned dataset](data/Orders_cleaned.csv)
 
-- Order Date
-- Ship Date
-- Ship Mode
-- Customer
-- Segment
-- Region
-- Category
-- Sub-Category
-- Product
-- Sales
-- Quantity
-- Discount
-- Profit
-- Shipping Days
+The dataset was checked for duplicate records, missing values, valid dates, and numerical consistency before analysis.
 
 ---
 
@@ -249,12 +235,12 @@ The dashboard provides an interactive way for business stakeholders to explore s
 
 ## Project Files
 
-- `sql/ecommerce_analysis.sql` - SQL analysis queries
-- `dashboard/executive_overview.png` - Executive Overview dashboard
-- `dashboard/profitability_operations.png` - Profitability & Operations dashboard
-- `powerbi/ecommerce_sales_profitability.pbix` - Power BI report
-- `data/Orders_cleaned.csv` - Cleaned dataset, if permitted for distribution
-
+- **[SQL Analysis](sql/ecommerce_analysis.sql)** — 45 SQL queries covering business metrics, product and customer analysis, profitability, discounts, and monthly trends.
+- **[Executive Overview](dashboard/executive_overview.png)** — High-level sales and profitability dashboard.
+- **[Profitability & Operations](dashboard/profitability_operations.png)** — Detailed profitability and operational dashboard.
+- **[Power BI Report (.pbix)](powerbi/ecommerce_sales_profitability.pbix)** — Download the Power BI report.
+- **[Cleaned Dataset](data/Orders_cleaned.csv)** — Cleaned data used for SQL analysis and Power BI reporting.
+  
 ---
 
 ## Skills Demonstrated
